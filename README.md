@@ -10,6 +10,14 @@ An interactive HR Analytics Dashboard built in Microsoft Excel to analyze workfo
 
 ---
 
+
+##  Project Structure
+Dataset → data/hr_dataset.xlsx
+Dashboard → dashboard/hr_dashboard.xlsx
+
+---
+
+
 ##  Tools & Skills Used
 
 - Microsoft Excel
