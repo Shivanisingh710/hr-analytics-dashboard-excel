@@ -1,16 +1,16 @@
-# 📊 HR Analytics Dashboard (Excel)
+#  HR Analytics Dashboard (Excel)
 
 An interactive HR Analytics Dashboard built in Microsoft Excel to analyze workforce trends, employee distribution, hiring patterns, and attrition.
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](screenshots/hr_dashboard_screenshot.png)
 
 ---
 
-## 🔧 Tools & Skills Used
+##  Tools & Skills Used
 
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
@@ -25,7 +25,7 @@ An interactive HR Analytics Dashboard built in Microsoft Excel to analyze workfo
 
 ---
 
-## 📌 Features
+##  Features
 
 - Interactive dashboard with slicers:
   - Gender
@@ -50,7 +50,7 @@ An interactive HR Analytics Dashboard built in Microsoft Excel to analyze workfo
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Employee attrition rate is **38.74%**, indicating moderate retention challenges.
 - Hiring peaked in earlier years and shows a **declining trend in recent years**.
@@ -61,16 +61,18 @@ An interactive HR Analytics Dashboard built in Microsoft Excel to analyze workfo
 
 ---
 
-## ⚠️ Challenges
+##  Challenges
 
 - Presence of **missing/unknown values** in:
   - Location
   - Department
 - Data quality impacts accuracy of insights
+- KPI cards were not updating dynamically after connecting them to pivot table values using slicers.
+- After reopening the Excel file, KPI-linked cells started behaving like static text instead of dynamic values.
 
 ---
 
-## 🚀 Improvements (Future Scope)
+##  Improvements (Future Scope)
 
 - Integrate with Power BI for advanced visualization
 - Use SQL for scalable data handling
@@ -79,13 +81,13 @@ An interactive HR Analytics Dashboard built in Microsoft Excel to analyze workfo
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Dataset → data/hr_dataset.xlsx
 Dashboard → dashboard/hr_dashboard.xlsx
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project demonstrates:
 
