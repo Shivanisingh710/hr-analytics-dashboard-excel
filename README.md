@@ -75,7 +75,7 @@ Dashboard → dashboard/hr_dashboard.xlsx
   - Location
   - Department
 - Data quality impacts accuracy of insights
-- KPI cards were not updating dynamically after connecting them to pivot table values using slicers.
+- KPI cards are not updating dynamically after connecting them to pivot table values using slicers.
 - After reopening the Excel file, KPI-linked cells started behaving like static text instead of dynamic values.
 
 ---
@@ -89,11 +89,6 @@ Dashboard → dashboard/hr_dashboard.xlsx
 
 ---
 
-##  Project Structure
-Dataset → data/hr_dataset.xlsx
-Dashboard → dashboard/hr_dashboard.xlsx
-
----
 
 ##  Conclusion
 
